@@ -1,0 +1,10 @@
+C:\Users\Professor\Desktop\Ramos\ProjetoSoma\bin\Debug\ProjetoSoma.exe.config
+C:\Users\Professor\Desktop\Ramos\ProjetoSoma\bin\Debug\ProjetoSoma.exe
+C:\Users\Professor\Desktop\Ramos\ProjetoSoma\bin\Debug\ProjetoSoma.pdb
+C:\Users\Professor\Desktop\Ramos\ProjetoSoma\obj\Debug\ProjetoSoma.csproj.AssemblyReference.cache
+C:\Users\Professor\Desktop\Ramos\ProjetoSoma\obj\Debug\ProjetoSoma.Form1.resources
+C:\Users\Professor\Desktop\Ramos\ProjetoSoma\obj\Debug\ProjetoSoma.Properties.Resources.resources
+C:\Users\Professor\Desktop\Ramos\ProjetoSoma\obj\Debug\ProjetoSoma.csproj.GenerateResource.cache
+C:\Users\Professor\Desktop\Ramos\ProjetoSoma\obj\Debug\ProjetoSoma.csproj.CoreCompileInputs.cache
+C:\Users\Professor\Desktop\Ramos\ProjetoSoma\obj\Debug\ProjetoSoma.exe
+C:\Users\Professor\Desktop\Ramos\ProjetoSoma\obj\Debug\ProjetoSoma.pdb
