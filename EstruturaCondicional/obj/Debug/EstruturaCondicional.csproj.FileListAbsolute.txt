@@ -1,0 +1,10 @@
+C:\Users\Professor\Desktop\Ramos\EstruturaCondicional\obj\Debug\EstruturaCondicional.csproj.AssemblyReference.cache
+C:\Users\Professor\Desktop\Ramos\EstruturaCondicional\obj\Debug\EstruturaCondicional.Form1.resources
+C:\Users\Professor\Desktop\Ramos\EstruturaCondicional\obj\Debug\EstruturaCondicional.Properties.Resources.resources
+C:\Users\Professor\Desktop\Ramos\EstruturaCondicional\obj\Debug\EstruturaCondicional.csproj.GenerateResource.cache
+C:\Users\Professor\Desktop\Ramos\EstruturaCondicional\obj\Debug\EstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\Professor\Desktop\Ramos\EstruturaCondicional\bin\Debug\EstruturaCondicional.exe.config
+C:\Users\Professor\Desktop\Ramos\EstruturaCondicional\bin\Debug\EstruturaCondicional.exe
+C:\Users\Professor\Desktop\Ramos\EstruturaCondicional\bin\Debug\EstruturaCondicional.pdb
+C:\Users\Professor\Desktop\Ramos\EstruturaCondicional\obj\Debug\EstruturaCondicional.exe
+C:\Users\Professor\Desktop\Ramos\EstruturaCondicional\obj\Debug\EstruturaCondicional.pdb
