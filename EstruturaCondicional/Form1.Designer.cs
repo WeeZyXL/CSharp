@@ -90,6 +90,7 @@
             this.Controls.Add(this.Titulo);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.WindowState = System.Windows.Forms.FormWindowState.Minimized;
             this.ResumeLayout(false);
             this.PerformLayout();
 
